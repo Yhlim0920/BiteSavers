@@ -135,10 +135,7 @@ BiteSavers aims to:
 
 This repository contains the BiteSavers Android application source code. Feature availability, backend integration, and deployment readiness should be verified against the current implementation.
 
-## 👥 Contributors
 
-Add the names and GitHub profiles of the project contributors here.
+## My own part
 
-## 📄 License
-
-A license has not yet been specified. Add an appropriate license after confirming the project's ownership and distribution requirements.
+For this project, I mainly focused on the authentication, IOT safety and merchant management features. Specifically, I worked on the Customer and business sign-in and login flows, integrated the terms and conditions agreement, and built the restaurant registration screen for the new business account. I also handled the temperature sensor setup module for adding the monitoring boxes. Moreover, I added the merchant wallet feature directly into the business profile screen and also did the function of the merchant wallet. Lastly, I also cleaned up some navigation routes, added the validation and debugging with our group members.
